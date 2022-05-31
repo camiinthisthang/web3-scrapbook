@@ -31,5 +31,5 @@ const runMain = async () => {
   
   runMain();
   //in order to run this:
-  //nox hardhat node in a terminal
+  //npx hardhat node in a terminal
   //open a new terminal window and run npx hardhat run --network localhost scripts/YOUR_SCRIPT_FILE.js
